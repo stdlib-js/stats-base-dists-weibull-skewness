@@ -1,0 +1,4 @@
+// Copyright (c) 2022 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+/// <reference types="./index.d.ts" />
+import s from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-nan@esm/index.mjs";import t from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-variance@esm/index.mjs";import e from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-gamma@esm/index.mjs";import i from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-sqrt@esm/index.mjs";import m from"https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-mean@esm/index.mjs";import a from"https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs";var d=s,r=t,n=e,l=i,j=m,p=a;var h=function(s,t){var e,i,m,a;return d(s)||d(t)||s<=0||t<=0?NaN:(a=j(s,t),e=r(s,t),i=l(e),m=n(1+3/s)*p(t,3),m-=3*a*e+p(a,3),m/=p(i,3))};export{h as default};
+//# sourceMappingURL=index.mjs.map
