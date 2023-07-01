@@ -32,10 +32,14 @@ The [skewness][skewness] for a [Weibull][weibull-distribution] random variable i
 
 <!-- <equation class="equation" label="eq:weibull_skewness" align="center" raw="\operatorname{skew}\left( X \right) = \frac{\Gamma(1+3/k)\lambda^3-3\mu\sigma^2-\mu^3}{\sigma^3}" alt="Skewness for a Weibull distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \frac{\Gamma(1+3/k)\lambda^3-3\mu\sigma^2-\mu^3}{\sigma^3}" data-equation="eq:weibull_skewness">
+```math
+\operatorname{skew}\left( X \right) = \frac{\Gamma(1+3/k)\lambda^3-3\mu\sigma^2-\mu^3}{\sigma^3}
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{skew}\left( X \right) = \frac{\Gamma(1+3/k)\lambda^3-3\mu\sigma^2-\mu^3}{\sigma^3}" data-equation="eq:weibull_skewness">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/weibull/skewness/docs/img/equation_weibull_skewness.svg" alt="Skewness for a Weibull distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -229,7 +233,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
