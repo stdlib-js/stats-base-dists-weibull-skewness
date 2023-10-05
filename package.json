@@ -42,7 +42,8 @@
     "@stdlib/math-base-special-pow": "^0.1.0",
     "@stdlib/math-base-special-sqrt": "^0.1.0",
     "@stdlib/stats-base-dists-weibull-mean": "^0.1.0",
-    "@stdlib/stats-base-dists-weibull-variance": "^0.1.0"
+    "@stdlib/stats-base-dists-weibull-variance": "^0.1.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/bench": "^0.1.0",
