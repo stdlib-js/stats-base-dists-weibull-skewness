@@ -69,7 +69,7 @@ where `Γ` is the gamma function, `μ` denotes the mean of the distribution, and
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@v0.2.2-deno/mod.js';
 ```
 
 #### skewness( k, lambda )
@@ -140,7 +140,7 @@ v = skewness( 1.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@deno/mod.js';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@v0.2.2-deno/mod.js';
 
 var lambda;
 var k;
