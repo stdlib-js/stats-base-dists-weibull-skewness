@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-09-08)
 
 <section class="features">
 
 ### Features
 
--   [`56acda8`](https://github.com/stdlib-js/stdlib/commit/56acda846178ab2d33c4ffd73f082d5066873723) - add C implementation for `stats/base/dists/weibull/skewness` [(#4053)](https://github.com/stdlib-js/stdlib/pull/4053)
+-   [`56acda8`](https://github.com/stdlib-js/stdlib/commit/56acda846178ab2d33c4ffd73f082d5066873723) - add C implementation for stats/base/dists/weibull/skewness [(#4053)](https://github.com/stdlib-js/stdlib/pull/4053)
 
 </section>
 
@@ -22,7 +22,7 @@
 
 A total of 2 issues were closed in this release:
 
-[#3835](https://github.com/stdlib-js/stdlib/issues/3835), [#4992](https://github.com/stdlib-js/stdlib/issues/4992)
+[#3849](https://github.com/stdlib-js/stdlib/issues/3849), [#4992](https://github.com/stdlib-js/stdlib/issues/4992)
 
 </section>
 
@@ -34,7 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
--   [`56acda8`](https://github.com/stdlib-js/stdlib/commit/56acda846178ab2d33c4ffd73f082d5066873723) - **feat:** add C implementation for `stats/base/dists/weibull/skewness` [(#4053)](https://github.com/stdlib-js/stdlib/pull/4053) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`56acda8`](https://github.com/stdlib-js/stdlib/commit/56acda846178ab2d33c4ffd73f082d5066873723) - **feat:** add C implementation for stats/base/dists/weibull/skewness [(#4053)](https://github.com/stdlib-js/stdlib/pull/4053) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 
 </details>
