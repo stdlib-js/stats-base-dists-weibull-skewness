@@ -47,7 +47,8 @@
     "@stdlib/math-base-special-sqrt": "^0.2.2",
     "@stdlib/stats-base-dists-weibull-mean": "^0.2.2",
     "@stdlib/stats-base-dists-weibull-variance": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.2.2",
