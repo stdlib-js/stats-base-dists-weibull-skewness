@@ -69,7 +69,7 @@ where `Γ` is the gamma function, `μ` denotes the mean of the distribution, and
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@v0.3.1-esm/index.mjs';
 ```
 
 #### skewness( k, lambda )
@@ -146,7 +146,7 @@ v = skewness( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-skewness@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
